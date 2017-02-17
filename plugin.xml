@@ -21,7 +21,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">myperischool-8aeaa</string>
+			<string name="google_app_id">1:933474442701:android:d0fbbf661fb7f05f</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
 			<string name="google_api_key">AIzaSyDqYmGzbUpYImIZ284qiBw2XhjuEflPRXY</string>
